@@ -17,3 +17,8 @@ Clean, transform, and standardize raw data
 Create a single business-ready dataset
 
 Enable reporting and analytical insights
+
+<h2> 🏗 Architecture Overview</h2>
+
+![Healthcare Architecture](Denis-architecture.png)
+
