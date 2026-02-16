@@ -91,3 +91,13 @@ Optimized for Power BI reporting
 Fact and dimension tables
 
 Business metrics for decision-making
+
+<h2>🔄 Data Flow</h2>
+
+Raw data ingested into Bronze layer
+
+Data cleaned and standardized in Silver layer
+
+Business logic applied to create Gold layer
+
+Gold layer feeds reporting and analytics
