@@ -27,10 +27,8 @@ Enable reporting and analytical insights
 <h3> Purpose: </h3> Store raw ingested data without transformation.
 
 <h3>Data Sources:</h3>
-
-Sales.csv
-
-Products.xlsx
+<ul>
+<li>Sales.csv</li><li>Products.xlsx</li>
 
 Customers.json
 
@@ -39,6 +37,9 @@ Geography.json
 Categories.csv
 
 Subcategories.csv
+  
+</ul>
+
 
 <h3>Key Features:</h3>
 
