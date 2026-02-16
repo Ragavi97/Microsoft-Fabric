@@ -103,14 +103,17 @@ Business logic applied to create Gold layer
 Gold layer feeds reporting and analytics
 
 <h2> 📊 Reporting & Analytics </h2>
-
+<ul>
 The Gold layer supports reporting tools such as:
 
-Power BI
+<li>Power BI</li>
 
-Fabric Notebooks & SQL Endpoints
+<li>Fabric Notebooks & SQL Endpoints</li>
 
-Dashboarding & KPI tracking
+<li>Dashboarding & KPI tracking</li>
+  
+</ul>
+
 
 Key Insights Enabled:
 
