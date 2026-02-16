@@ -24,9 +24,9 @@ Enable reporting and analytical insights
 
 <h2>🔹 Bronze Layer (Raw Data)</h2>
 
-Purpose: Store raw ingested data without transformation.
+<h3> Purpose: </h3> Store raw ingested data without transformation.
 
-Data Sources:
+<h3>Data Sources:</h3>
 
 Sales.csv
 
@@ -40,7 +40,7 @@ Categories.csv
 
 Subcategories.csv
 
-Key Features:
+<h3>Key Features:</h3>
 
 Maintains original structure
 
