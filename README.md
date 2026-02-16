@@ -22,3 +22,28 @@ Enable reporting and analytical insights
 
 ![Healthcare Architecture](Denis-architecture.png)
 
+<h2>🔹 Bronze Layer (Raw Data)</h2>
+
+Purpose: Store raw ingested data without transformation.
+
+Data Sources:
+
+Sales.csv
+
+Products.xlsx
+
+Customers.json
+
+Geography.json
+
+Categories.csv
+
+Subcategories.csv
+
+Key Features:
+
+Maintains original structure
+
+Enables traceability and auditing
+
+Supports reprocessing
