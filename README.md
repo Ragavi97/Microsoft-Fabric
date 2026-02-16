@@ -40,57 +40,42 @@ Enable reporting and analytical insights
 
 <h2>🔹 Silver Layer (Cleaned & Standardized Data)</h2>
 
-<h3>Purpose:</h3> Improve data quality and prepare it for modeling.
+<h3>Purpose:</h3> 
+<ul><li>Improve data quality and prepare it for modeling.</li></ul>
 
 <h3>Transformations Applied:</h3>
-
-Data type standardization
-
-Handling null values & duplicates
-
-Data cleansing & formatting
-
-Schema alignment
+<ul>
+  <li>Data type standardization</li><li>Handling null values & duplicates</li><li>Data cleansing & formatting</li><li>Schema alignment</li>
+</ul>
 
 <h3>Output Tables:</h3>
-
-Cleaned Sales
-
-Cleaned Products
-
-Cleaned Customers
-
-Geography
-
-Categories & Subcategories
+<ul>
+  <li>Cleaned Sales</li><li>Cleaned Products</li><li>Cleaned Customers</li><li>Geography</li><li>Categories & Subcategories</li>
+</ul>
 
 <h2>🔹 Gold Layer (Business-Ready Data)</h2>
 
-<h3>Purpose:</h3> Deliver curated datasets optimized for analytics and reporting.
+<h3>Purpose:</h3> 
+<ul>
+  <li>Deliver curated datasets optimized for analytics and reporting.</li>
+</ul>
 
 <h3>Features:</h3>
-
-Denormalized tables
-
-Business logic & calculations
-
-Optimized for Power BI reporting
+<ul>
+  <li>Denormalized tables</li><li>Business logic & calculations</li><li>Optimized for Power BI reporting</li>
+</ul>
 
 <h3>Output:</h3>
-
-Fact and dimension tables
-
-Business metrics for decision-making
+<ul>
+  <li>Fact and dimension tables</li><li>Business metrics for decision-making</li>
+</ul>
 
 <h2>🔄 Data Flow</h2>
-
-Raw data ingested into Bronze layer
-
-Data cleaned and standardized in Silver layer
-
-Business logic applied to create Gold layer
-
-Gold layer feeds reporting and analytics
+<ul>
+  <li>Raw data ingested into Bronze layer</li><li>Data cleaned and standardized in Silver layer</li><li>Business logic applied to create Gold layer
+</li><li>Gold layer feeds reporting and analytics
+</li>
+</ul>
 
 <h2> 📊 Reporting & Analytics </h2>
 The Gold layer supports reporting tools such as:
@@ -115,13 +100,10 @@ Sales performance analysis
 
 
 <h2> 🛠 Technologies Used </h2>
+<ul>
+  <li>Microsoft Fabric</li><li>Lakehouse Architecture</li><li>Data Pipelines / Dataflows Gen2</li><li>Spark / Notebooks</li><li>Power BI</li>
+</ul>
 
-Microsoft Fabric
 
-Lakehouse Architecture
 
-Data Pipelines / Dataflows Gen2
 
-Spark / Notebooks
-
-Power BI
