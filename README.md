@@ -73,3 +73,21 @@ Cleaned Customers
 Geography
 
 Categories & Subcategories
+
+<h2>🔹 Gold Layer (Business-Ready Data)</h2>
+
+<h3>Purpose:</h3> Deliver curated datasets optimized for analytics and reporting.
+
+<h3>Features:</h3>
+
+Denormalized tables
+
+Business logic & calculations
+
+Optimized for Power BI reporting
+
+<h3>Output:</h3>
+
+Fact and dimension tables
+
+Business metrics for decision-making
