@@ -28,26 +28,15 @@ Enable reporting and analytical insights
 
 <h3>Data Sources:</h3>
 <ul>
-<li>Sales.csv</li><li>Products.xlsx</li>
-
-Customers.json
-
-Geography.json
-
-Categories.csv
-
-Subcategories.csv
-  
+<li>Sales.csv</li><li>Products.xlsx</li><li>Customers.json</li><li>Geography.json</li><li>Categories.csv</li><li>Subcategories.csv</li>
 </ul>
 
 
 <h3>Key Features:</h3>
-
-Maintains original structure
-
-Enables traceability and auditing
-
-Supports reprocessing
+<ul>
+  <li>Maintains original structure</li><li>Enables traceability and auditing</li><li>Supports reprocessing
+</li>
+</ul>
 
 <h2>🔹 Silver Layer (Cleaned & Standardized Data)</h2>
 
