@@ -47,3 +47,29 @@ Maintains original structure
 Enables traceability and auditing
 
 Supports reprocessing
+
+<h2>🔹 Silver Layer (Cleaned & Standardized Data)</h2>
+
+<h3>Purpose:</h3> Improve data quality and prepare it for modeling.
+
+<h3>Transformations Applied:</h3>
+
+Data type standardization
+
+Handling null values & duplicates
+
+Data cleansing & formatting
+
+Schema alignment
+
+<h3>Output Tables:</h3>
+
+Cleaned Sales
+
+Cleaned Products
+
+Cleaned Customers
+
+Geography
+
+Categories & Subcategories
