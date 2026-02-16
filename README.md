@@ -101,3 +101,35 @@ Data cleaned and standardized in Silver layer
 Business logic applied to create Gold layer
 
 Gold layer feeds reporting and analytics
+
+<h2> 📊 Reporting & Analytics </h2>
+
+The Gold layer supports reporting tools such as:
+
+Power BI
+
+Fabric Notebooks & SQL Endpoints
+
+Dashboarding & KPI tracking
+
+Key Insights Enabled:
+
+Sales performance analysis
+
+Customer behavior insights
+
+Product & category trends
+
+Geographic sales distribution
+
+<h2> 🛠 Technologies Used </h2>
+
+Microsoft Fabric
+
+Lakehouse Architecture
+
+Data Pipelines / Dataflows Gen2
+
+Spark / Notebooks
+
+Power BI
